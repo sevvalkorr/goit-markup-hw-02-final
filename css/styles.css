@@ -84,11 +84,8 @@ body {
 .mailto-info:hover, .mailto-info:focus {
     color: #404bbf;
 }
-.our-portfolio{
-    background-color: #f4f4f4;
-}
 .logo-studios{
-color: #f4f4f4;
+color: #2E2F42;
 }
 .logo-and{
     font-family: "Raleway", sans-serif;
@@ -117,4 +114,8 @@ color: #f4f4f4;
 .footer-and{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #f4f4f4;
+}
+.our-team{
+    background-color: #f4f4f4;
 }
