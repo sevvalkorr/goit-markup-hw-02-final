@@ -1,0 +1,89 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF; /* Change this to your desired color */
+}
+.effective-solutions {
+    background-color: #2E2F42; /* Change this to your desired color */
+}
+.post-title {
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    color: #FFFFFF;
+    text-align: center; /* Change this to your desired color */
+}
+.button-style {
+    background-color: #4D5AE5; /* Change this to your desired color */
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    font-family: 'Roboto', sans-serif;/* Change this to your desired color */
+}
+.button-style:hover, .button-style:focus{
+    background-color: #404bbf;
+    color: #FFFFFF;
+    cursor: pointer; /* Change this to your desired color */
+}
+.header-two {
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize; /* Change this to your desired color */
+}
+.header-three {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    line-height: 1.2; /* Change this to your desired color */
+}
+.body-text {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+    line-height: 1.5; /* Change this to your desired color */
+}
+.logo-web {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+    color: #2E2F42;/* Change this to your desired color */
+}
+.logo-web:hover, .logo-web:focus {
+    color: #404bbf;/* Change this to your desired color */
+}
+.logo-link {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17; 
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;/* Change this to your desired color */
+}
+.logo-studio {
+    color: #2E2F42;
+}
+.contact-info {
+    font-style: normal;/* Change this to your desired color */
+}
+.mailto-info {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.mailto-info:hover, .mailto-info:focus {
+    color: #404bbf;
+}
+.our-portfolio{
+    background-color: #f4f4f4;
+}
